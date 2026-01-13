@@ -1,4 +1,4 @@
-# prog-str-2E-Caleb-Astudillo
+# prog-str-2E-Caleb-Astudillo-Main
 Repositorio para entregar trabajos de la materia Programación Estructurada
 
 Autor: Alonso Caleb Astudillo Cuevas
