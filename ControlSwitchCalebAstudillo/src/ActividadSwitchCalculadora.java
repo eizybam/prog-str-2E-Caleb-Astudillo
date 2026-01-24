@@ -38,7 +38,7 @@ public class ActividadSwitchCalculadora {
     }
 
     public static void printMenu() {
-        System.out.println("\nMenu:");
+        System.out.println("Menu:");
         System.out.println("1. Sumar");
         System.out.println("2. Restar");
         System.out.println("3. Multiplicar");
