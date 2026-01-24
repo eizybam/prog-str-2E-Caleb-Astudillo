@@ -4,6 +4,7 @@ public class ActividadSwitchCalculadora {
     public static void main(String[] args) {
         double result, a, b;
         Scanner sc = new Scanner(System.in);
+
         printMenu();
         int choice = sc.nextInt();
         a = getDouble(sc, "Ingresa el 1er número: ");
