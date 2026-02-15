@@ -84,7 +84,7 @@ public class Main {
         System.out.println("[3] Baja lógica por ID");
         System.out.println("[4] Listar activas");
         System.out.println("[5] Actualizar nombre por ID");
-        System.out.println("[0] Salir");
+        System.out.println("[6] Salir");
     }
 
     /**
