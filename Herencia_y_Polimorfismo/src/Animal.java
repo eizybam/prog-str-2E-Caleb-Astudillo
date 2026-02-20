@@ -6,13 +6,12 @@ public class Animal {
         this.nombre = nombre;
     }
 
-
     public void comer(){
-        System.out.println(nombre+ " Esta comiendo");
+        System.out.println(nombre+ " Está comiendo yomi");
     }
 
     public void hacerSonido(){
-        System.out.println(nombre+ " Esta haciendo un sonido");
+        System.out.println(nombre+ " Está haciendo un sonido .. ");
     }
 
     public String getNombre() {

@@ -11,9 +11,9 @@ public class Main {
         bruno.hacerSonido();
 
         Animal[] animales= new Animal[3];
-        animales[0]=new Perro("Rufus");
-        animales[1] = new Gato("Honey");
-        animales[2] = new Perro("Solovino");
+        animales[0]=new Perro("Toby");
+        animales[1] = new Gato("Michi");
+        animales[2] = new Perro("Toño");
 
         // -- POLIMORFISMO --
         for(Animal animal: animales){
@@ -23,7 +23,7 @@ public class Main {
         }
 
         // -- CASTING -- Para acceder a los métodos específicos de la clase hija, es necesario realizar un casting
-        Animal animal1= new Perro("nicky");
+        Animal animal1= new Perro("perro");
         Perro perr1 = (Perro)animal1;
         perr1.marcarTerritorio();
     }
